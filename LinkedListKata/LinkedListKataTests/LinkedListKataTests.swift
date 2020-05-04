@@ -152,5 +152,6 @@ class LinkedListKataTests: XCTestCase {
         list1.add(Node(value: "b"))
         list1.removeAll()
         XCTAssertEqual(list1, List<String>())
+        XCTAssertEqual(list1.count, 0)
     }
 }

@@ -25,3 +25,6 @@ https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html
 [LinkedListKata](https://github.com/mugx/TDD-Katas-Swift/tree/master/LinkedListKata)
 
 [MinesweeperKata](https://github.com/mugx/TDD-Katas-Swift/tree/master/MinesweeperKata)
+
+[PrimeFactorsKata](https://github.com/mugx/TDD-Katas-Swift/tree/master/PrimeFactorsKata)
+
